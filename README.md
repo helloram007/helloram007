@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramchandhar Reddy Rapolu</h1>
-<h3 align="center">A Passionate PolyGlot DevOps Engineer and a Ethereum and Solana Blockchain Ethusiast.A Rust Lover and practioner with focus on Data Engineering projects using Apache Datafusion.</h3>
+<h3 align="center">A Passionate PolyGlot DevOps Engineer with 20 years of Software Engineering experience and a Ethereum and Solana Blockchain Ethusiast.A Rust Lover and practioner with focus on Data Engineering projects using Apache Datafusion.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helloram007&label=Profile%20views&color=0e75b6&style=flat" alt="helloram007" /> </p>
 
